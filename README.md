@@ -6,7 +6,7 @@ A sleek, fast, and feature-rich Android companion app for RIT Attendance. Manage
 
 You can always download the latest version of the app directly from our releases page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/NealMR/rit-attendance-android-app/releases/latest)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/NealMR/rit-attendance-android-app/releases/latest/download/RIT_Attendance.apk)
 
 ## Features
 - **Dynamic Widgets**: Track your attendance and upcoming classes right from your home screen.
